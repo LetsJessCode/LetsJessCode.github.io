@@ -1,11 +1,11 @@
 # Site settings
 author: Jessica Shearwood
-title: 
+title: Why I Chose Software Engineering
 header-img: img/home-bg.png
 email: letsjesscode@gmail.com
 copyright_name: Jessica Shearwood
 description: > # this means to ignore newlines until "baseurl:"
-  
+   A Fresh Start
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: LetsJessCode
 github_username:  LetsJessCode
