@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Maintaining My Dream"
-date:       2020-06-01 12:30:49 +0000
+date:       2020-06-01 08:30:50 -0400
 permalink:  maintaining_my_dream
 ---
 
