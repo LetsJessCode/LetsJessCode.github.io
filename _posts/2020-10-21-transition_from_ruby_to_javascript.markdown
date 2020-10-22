@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Transition from Ruby to JavaScript"
-date:       2020-10-22 01:15:41 +0000
+date:       2020-10-21 21:15:42 -0400
 permalink:  transition_from_ruby_to_javascript
 ---
 
